@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Title: PjlmrW (Please just let me read wikipedia)
+! Author: main()
+! Version: 1.0
+! Expires: 7 days
+
+meta.wikimedia.org/w/index.php?title=Special:BannerLoader
